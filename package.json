@@ -1,0 +1,11 @@
+{
+  "name": "sitemap-to-csv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.0.0",
+    "csv-writer": "^1.6.0",
+    "xml2js": "^0.4.23"
+  }
+}
